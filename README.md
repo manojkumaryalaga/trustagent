@@ -244,8 +244,7 @@ print(result["full_output"])
 
 **Manoj Kumar Yalaga**
 M.S. Data Science & Analytics — Florida Atlantic University (2025)
-manojkyalaga@gmail.com
-[LinkedIn](https://linkedin.com/in/manojkyalaga) · [GitHub](https://github.com/manojkumaryalaga)
+manojkyalaga@gmail.com · [GitHub](https://github.com/manojkumaryalaga)
 
 ---
 
