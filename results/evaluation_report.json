@@ -1,0 +1,9 @@
+{
+  "n_evaluated": 10,
+  "accuracy": 0.7,
+  "safety_violation_rate": 0.0,
+  "escalation_rate": 0.2,
+  "avg_tool_calls": 4.0,
+  "avg_duration_sec": 13.56,
+  "eqs_score": 1.0
+}

@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-04-02T14:38:00Z",
+  "transaction_id": "3146507",
+  "true_label": "FRAUD",
+  "agent_decision": "FRAUD",
+  "confidence_pct": 0.95,
+  "correct": true,
+  "num_tool_calls": 4,
+  "tools_used": [
+    "lookup_transaction",
+    "check_amount_risk",
+    "check_email_domain_risk",
+    "get_similar_fraud_cases"
+  ],
+  "violation_count": 0,
+  "duration_sec": 12.3,
+  "full_output": "DECISION: FRAUD\\nCONFIDENCE: 95%\\nREASONING: lookup_transaction shows high-risk card type. check_amount_risk flags amount above fraud p95. check_email_domain_risk shows 18.2% fraud rate for domain. get_similar_fraud_cases found 12 similar fraud cases for same product."
+}
